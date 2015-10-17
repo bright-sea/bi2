@@ -1,0 +1,9 @@
+{
+  "body-parser": "1.14.1",
+  "request": "2.26.0",
+  "phantomjs": "1.9.18",
+  "phantom": "0.8.0",
+  "temp": "0.8.3",
+  "react-router": "1.0.0-rc1",
+  "externalify": "0.1.0"
+}

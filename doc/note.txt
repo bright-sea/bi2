@@ -1,0 +1,47 @@
+http://www.okgrow.com/posts/2015/09/11/meteor-12-upgrade-guide/
+https://www.meteor.com/tutorials/react/creating-an-app
+http://alexgaribay.com/2015/07/06/getting-started-with-meteor-react-and-react-router/
+
+
+meteor create bi2
+
+meteor --port $IP:$PORT
+
+meteor update
+
+meteor add ecmascript
+
+meteor add react
+
+meteor add accounts-ui accounts-password
+
+meteor remove insecure
+meteor remove autopublish
+
+meteor add reactive-var
+meteor add less
+
+meteor add twbs:bootstrap
+meteor add underscore
+
+meteor add meteorhacks:npm cosmos:browserify
+
+meteor add meteorhacks:picker
+
+meteor deploy brightsea.meteor.com
+
+
+meteor install-sdk ios
+meteor add-platform ios
+meteor run ios
+
+meteor run ios-device
+meteor run ios-device --mobile-server brightsea.meteor.com
+
+
+meteor install-sdk android
+meteor add-platform android
+meteor run android
+
+meteor run android-device
+meteor run android-device --mobile-server brightsea.meteor.com

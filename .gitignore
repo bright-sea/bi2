@@ -1,0 +1,6 @@
+.meteor/local
+.meteor/meteorite
+
+.DS_Store
+.idea/
+.c9/
